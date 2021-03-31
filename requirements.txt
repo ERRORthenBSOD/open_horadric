@@ -1,6 +1,6 @@
-git+https://github.com/got686/open_horadric_lib@b258bbdba1bbb53ec3ba31274c996a99e01a1ce4
+git+https://github.com/ERRORthenBSOD/open_horadric_lib@7e719057cd5a49382a5cb62dfe67ababb7428552
 
-protobuf==3.9.1
-grpcio==1.23.0
+protobuf==3.15.6
+grpcio==1.36.1
 jinja2==2.10.1
 pyyaml==5.1.2
