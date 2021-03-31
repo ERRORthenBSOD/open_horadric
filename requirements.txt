@@ -3,4 +3,4 @@ git+https://github.com/ERRORthenBSOD/open_horadric_lib@8a6b197b66a2e7e145b5de32b
 protobuf==3.15.6
 grpcio==1.36.1
 jinja2>=2.10.3
-pyyaml>=5.1.2
+pyyaml==5.1.2
